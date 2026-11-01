@@ -5,3 +5,4 @@ data/
 gen.log
 silhouette_used.png
 .DS_Store
+docs/guide_src/

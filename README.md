@@ -101,3 +101,7 @@ cantilever bending length (ASTM D1388) as ground truth. Protocol in `docs/LEARN.
 
 ## Author
 Maulik Nehra — B.Tech Textile Engineering, IIT Delhi.  License: MIT.
+
+## Learning guide
+
+A step-by-step build guide (theory, maths, code, interview Q&A): [`docs/DrapeNet_Build_Guide.html`](docs/DrapeNet_Build_Guide.html) — download and open in a browser.
