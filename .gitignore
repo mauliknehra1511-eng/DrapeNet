@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+gen.log
+silhouette_used.png
+.DS_Store
